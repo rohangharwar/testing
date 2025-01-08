@@ -20,7 +20,7 @@ function bubbleSort(array) {
 
     return array;
 }
-
+//comments
 // Test the function
 const sortedArray = bubbleSort([45, 23, 3, -5346, 5, 356, 243, 35]);
 console.log("Sorted Array:");
